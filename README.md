@@ -1,5 +1,9 @@
 # cve2020-6096
  CVE 2020-6096 PoC - memcpy+168 still needed to build the RoP + shellcode
+Base on article released from Talos (Cisco)
+
+https://talosintelligence.com/vulnerability_reports/TALOS-2020-1019
+https://blog.talosintelligence.com/2020/05/cve-2020-6096.html
 
 2020-06-11 18:24:03.661 3569-3569/com.kasha.cve2020_6096 I/exploit: before memcpy
     --------- beginning of crash
